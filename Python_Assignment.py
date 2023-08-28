@@ -12,6 +12,11 @@ def sort_employee_data(employee_data, sorting_parameter):
     return sorted_data
 
 def main():
+    
+    print()
+    print("Aryan Srivastava")
+    print("E22CSEU0604")
+    print()
     employee_data = [
         ("161E90", "Raman", 41, 56000),
         ("161F91", "Himadri", 38, 67500),
